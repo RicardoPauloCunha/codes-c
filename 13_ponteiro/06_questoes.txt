@@ -1,0 +1,41 @@
+5) Analise a imagem a seguir:
+
+variável	v1	    v2	    soma	mult	n1	    n2	    s	    m
+valor	
+endereço	0x1000	0x1004	0x1008	0x100C	0x1010	0x1014	0x1018	0x101c
+
+(NÃO TEM IMAGEM, MAS IMAGINE UMA TABELA REPRESENTANDO A MEMORIA E UM CODIGO EM C)
+
+Com base nos endereços apresentados na figura do slide
+anterior e supondo que os valores digitados para a execução
+do programa são: 10 e 20, responda as questões seguintes:
+
+
+
+
+a) Depois de executada a linha 02, quais são os valores de:
+s, n1, n2 e *s
+
+s = 0x1008
+n1 = 10
+n2 = 20
+*s = 0 | undefind
+
+b) Depois de executada a linha 04, qual é o valor de m ?
+
+m = 200
+
+c) Depois de executada a linha 05, quais são os valores de:
+s, *s, e soma
+
+s = 0x1008
+*s = 30
+soma = 30
+
+d) O que é impresso quando linha 13 é executada?
+
+10 + 20 = 30
+
+e) O que é impresso quando linha 14 é executada?
+
+10 * 20 = 200
