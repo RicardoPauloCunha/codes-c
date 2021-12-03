@@ -1,6 +1,10 @@
 # Configurações
 
-## Variável de ambiente para o compilador GCC; 
+Link download
+
+https://sourceforge.net/projects/mingw/files/
+
+## Variável de ambiente para o compilador GCC
 
 1. Identificar onde instalou o compilador (MinGW);
 2. Acessa o pasta bin do instalador (basicamente onde está o gcc);
