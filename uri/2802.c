@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main()
+{
+    int n, i, c = 1;
+
+    scanf("%d", &n);
+
+    for (i = 1; i < n; i++)
+    {
+        c = c * 2;
+    }
+
+    printf("%d\n", c);
+
+    return 0;
+}
